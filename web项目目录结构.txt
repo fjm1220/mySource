@@ -1,0 +1,12 @@
+src\
+  main\
+    java\      这里是Java代码的根路径
+      HelloServlet.java     写的servlet的地方
+    resources\    项目中用到的源文件的根路径
+    webapps\      静态文件的根路径
+      index.html   静态文件
+      WEB-INF\     web.xml 的路径
+        web.xml     相关配置
+  test\
+    java\     存储单元测试代码用的
+pom.xml
